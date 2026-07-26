@@ -115,4 +115,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/YounusPeerzada/LeetCode/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YounusPeerzada/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YounusPeerzada/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
