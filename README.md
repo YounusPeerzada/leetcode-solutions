@@ -37,6 +37,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/YounusPeerzada/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YounusPeerzada/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/YounusPeerzada/LeetCode/tree/master/0509-fibonacci-number) |
@@ -119,8 +120,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YounusPeerzada/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/YounusPeerzada/LeetCode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
