@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/YounusPeerzada/LeetCode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/YounusPeerzada/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -61,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/YounusPeerzada/LeetCode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
