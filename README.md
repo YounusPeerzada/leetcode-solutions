@@ -56,6 +56,7 @@
 | [0088-merge-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YounusPeerzada/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0022-generate-parentheses](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Stack
 |  |
 | ------- |
