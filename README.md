@@ -166,4 +166,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
