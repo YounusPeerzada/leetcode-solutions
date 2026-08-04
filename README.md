@@ -25,6 +25,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/YounusPeerzada/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/YounusPeerzada/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1089-duplicate-zeros](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/YounusPeerzada/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -60,6 +61,7 @@
 | [0344-reverse-string](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1089-duplicate-zeros](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
