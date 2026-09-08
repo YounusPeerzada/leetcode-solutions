@@ -188,4 +188,16 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/YounusPeerzada/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
